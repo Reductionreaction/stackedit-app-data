@@ -1,8 +1,6 @@
-# this is a test
-$\frac{1}{2}+\Vert x-y\Vert_2$
-```python
-import torch
+# 数据驱动
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NjQ2NjYsMTEwMDA1NzQwMF19
+eyJoaXN0b3J5IjpbLTE1MzY2NjM5NDYsMTEwMDA1NzQwMF19
 -->

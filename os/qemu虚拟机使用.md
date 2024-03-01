@@ -10,24 +10,26 @@
     
 ```
  .\qemu-img create -f raw mydisk.raw 50G
-
+```
 -   安装操作系统, 利用`qemu\share\bios.bin`文件进行bios启动
     
     -   windows(这里选择win7SP1 x64 微软官方的2019英文旗舰版), 留下8G作为运行内存, 安装过程中留下20G空闲空间给linux
-        
+      ```  
          .\qemu-system-x86_64 -bios "D:\App\qemu\share\bios.bin" -drive file=mydisk.raw -cdrom "D:\eagedownload\7601.24214.180801-1700.win7sp1_ldr_escrow_client_ultimate_x64fre_en-us.iso" -m 8G -vga std
         
+   
     -   linux(这里选择ubuntu22.04), 同样用8G作为运行内存，加上`-boot order=d`表示优先从镜像文件中启动
-        
-         .\qemu-system-x86_64 -bios "D:\App\qemu\share\bios.bin" -drive file=mydisk.raw -cdrom "D:\eagedownload\ubuntu-22.04.4-desktop-amd64 (1).iso" -m 8G -vga std -boot order=d
+        ```
+         .\qemu-system-x86_64 -bios "D:\App\qemu\share\bios.bin" -drive file=mydisk.raw -cdrom "D:\eagedownload\ubuntu-22.04.4-desktop-amd64 (1).iso" -m 8G -vga std -boot order=d```
         
 -   下载dd for windows, 使用dd命令读取虚拟磁盘前512个字节
     
-     .\dd if=mydisk.raw of=mbr.bin bs=512 count=1
+  ```   .\dd if=mydisk.raw of=mbr.bin bs=512 count=1```
     
 -   使用objump对读取的mbr.bin文件进行反汇编操作
-    
+    ```
     objdump -D -b binary -m i386 --adjust-vma=0x7c00 mbr.bin
+    ```
     
 
 ## 实验结果
@@ -276,5 +278,5 @@ MBR主要包括
         
     -   `cli`：禁用中断，通常在引导加载程序的末尾执行，以确保加载操作系统时不受到中断的干扰。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njg1MTQ3OV19
+eyJoaXN0b3J5IjpbMTgyNzY0NDkyM119
 -->

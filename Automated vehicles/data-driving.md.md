@@ -9,8 +9,11 @@
 
 [自动驾驶汽车安全关键变道场景的对抗性生成 |IEEE会议出版物 |IEEE Xplore（IEEE的Xplore）](https://ieeexplore.ieee.org/document/10422684)
 - 对抗性生成方法, 但是好像没有开源的项目
+
+![111](/imgs/2024-03-10/ShBYPGdZYRopzNzo.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA2ODk1MDUsMTM3NjYyMjQ5MiwxMz
-IxNDMwMDA4LC0xNTYwMTI2MDE1LC0xNTM2NjYzOTQ2LDExMDAw
-NTc0MDBdfQ==
+eyJoaXN0b3J5IjpbMzYyNDkxNzAyLC0xNTYwNjg5NTA1LDEzNz
+Y2MjI0OTIsMTMyMTQzMDAwOCwtMTU2MDEyNjAxNSwtMTUzNjY2
+Mzk0NiwxMTAwMDU3NDAwXX0=
 -->

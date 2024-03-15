@@ -6,8 +6,15 @@
 - 机器学习
 - 英语
 - 数学，尤其是高代部分
-- 代码，如果xiang
+- 代码，如果想直接工作的话
+
+眼下比较重要的
+- 操作系统
+- 西瓜书
+- 数理逻辑
+- 计算方法
+- 数据库
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDA2MDkyMl19
+eyJoaXN0b3J5IjpbLTYyNjIwNDU1M119
 -->

@@ -63,12 +63,12 @@ $$
 - 阈值移动：给大类和小类不同的权重
 
 多分类任务的策略有
-- O v O：即将$C_0,C_1,...,C_n$
+- O v O：即将$C_0,C_1,...,C_n$ mei个作为正例和负例, 从而产生$\frac{n*(n-1)}{2}$个配对的结果
 
 # 决策树
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MTg3OTgsNDUyMTk2MTQ2LDM5OTEwNz
-Y5Nl19
+eyJoaXN0b3J5IjpbMTIyMTQ4Mzg4MSw0NTIxOTYxNDYsMzk5MT
+A3Njk2XX0=
 -->

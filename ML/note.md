@@ -62,9 +62,11 @@ $$
 - 欠采样：减少大类的样本量
 - 阈值移动：给大类和小类不同的权重
 
+多分类任务的策略
+
 # 决策树
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
 -->

@@ -65,12 +65,12 @@ $$
 多分类任务的策略有
 - O v O: 即将$C_0,C_1,...,C_n$ 每两个作为正例和负例, 从而产生$\frac{n*(n-1)}{2}$个配对的结果, 最终根据投票最多的结果进行分类
 - O v R: one vs. rest 这个顾名思义, 就是把一个作为正例把剩下的都作为反例, 选择置信度最大的正例结果
-- M v M: many vs. many 
+- M v M: many vs. many  
 
 # 决策树
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYyMDE1NzMsNDUyMTk2MTQ2LDM5OT
-EwNzY5Nl19
+eyJoaXN0b3J5IjpbLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NT
+IxOTYxNDYsMzk5MTA3Njk2XX0=
 -->

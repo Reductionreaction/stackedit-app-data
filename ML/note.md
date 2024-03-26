@@ -69,7 +69,11 @@ $$
 
 # 决策树
 单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
+
+# K-NN
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMD
-YyMDE1NzMsNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
+eyJoaXN0b3J5IjpbMjg4ODMzMDYyLDkxODc3NTY0MywtNDE1Mj
+E1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMDc2OTZd
+fQ==
 -->

@@ -79,12 +79,15 @@ $$
 	- k较大时容易欠拟合
 	- k=1时为最近邻分类器，错误率不超过贝叶斯分类器的两倍
 
+
 **回归问题**
 ![输入图片说明](/imgs/2024-03-26/W7jOCds9w5FYCqKS.png)
+
+
 k-nn 是懒惰学习，即训练时间开销为0
-svm,cnn是急切学习，即在训练时jiu'du
+svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造一个通用的，与输入无关的目标函数
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDc4NTQyNCwxMjAwMjQyNzAwLDI4OD
-gzMzA2Miw5MTg3NzU2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3
-Myw0NTIxOTYxNDYsMzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbNDcxMzMzNjc1LDEyMDAyNDI3MDAsMjg4OD
+MzMDYyLDkxODc3NTY0MywtNDE1MjE1MDQ5LC0xMDA2MjAxNTcz
+LDQ1MjE5NjE0NiwzOTkxMDc2OTZdfQ==
 -->

@@ -71,9 +71,13 @@ $$
 单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
 
 # K-NN
-
+![输入图片说明](/imgs/2024-03-26/ic7q0Crg84W8RlQB.png)
+- K取值的影响
+	- 一般取奇数
+	- k较小时较为复杂，对噪声明显
+	- k较大时容易guo'n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4ODMzMDYyLDkxODc3NTY0MywtNDE1Mj
-E1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMDc2OTZd
-fQ==
+eyJoaXN0b3J5IjpbMTMwNDI4NTc5LDI4ODgzMzA2Miw5MTg3Nz
+U2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYs
+Mzk5MTA3Njk2XX0=
 -->

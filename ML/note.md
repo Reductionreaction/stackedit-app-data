@@ -68,9 +68,8 @@ $$
 - M v M: many vs. many  
 
 # 决策树
-
-
+单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NT
-IxOTYxNDYsMzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMD
+YyMDE1NzMsNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
 -->

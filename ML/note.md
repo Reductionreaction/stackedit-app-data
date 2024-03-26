@@ -81,9 +81,10 @@ $$
 
 **回归问题**
 ![输入图片说明](/imgs/2024-03-26/W7jOCds9w5FYCqKS.png)
-
+k-nn 是懒惰学习，即训练时间开销为0
+svm,cnn是急切学习，即在训练时jiu'du
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMyMDEzMzcsMTIwMDI0MjcwMCwyOD
-g4MzMwNjIsOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1
-NzMsNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
+eyJoaXN0b3J5IjpbLTYxMDc4NTQyNCwxMjAwMjQyNzAwLDI4OD
+gzMzA2Miw5MTg3NzU2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3
+Myw0NTIxOTYxNDYsMzk5MTA3Njk2XX0=
 -->

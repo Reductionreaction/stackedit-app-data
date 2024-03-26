@@ -71,15 +71,19 @@ $$
 单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
 
 # K-NN
-分类问题
+**分类问题**
 ![输入图片说明](/imgs/2024-03-26/ic7q0Crg84W8RlQB.png)
 - K取值的影响
 	- 一般取奇数
 	- k较小时较为复杂，对噪声明显，容易过拟合
 	- k较大时容易欠拟合
 	- k=1时为最近邻分类器，错误率不超过贝叶斯分类器的两倍
+
+**回归问题**
+![输入图片说明](/imgs/2024-03-26/W7jOCds9w5FYCqKS.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MTkyMzYsMTIwMDI0MjcwMCwyODg4Mz
-MwNjIsOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1NzMs
-NDUyMTk2MTQ2LDM5OTEwNzY5Nl19
+eyJoaXN0b3J5IjpbLTE4MDMyMDEzMzcsMTIwMDI0MjcwMCwyOD
+g4MzMwNjIsOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1
+NzMsNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
 -->

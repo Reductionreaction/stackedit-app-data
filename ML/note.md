@@ -76,8 +76,9 @@ $$
 	- 一般取奇数
 	- k较小时较为复杂，对噪声明显，容易过拟合
 	- k较大时容易欠拟合
+	- k=1时为最近邻分类器，错误率不超过bei'ye
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDI0MjcwMCwyODg4MzMwNjIsOTE4Nz
-c1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1NzMsNDUyMTk2MTQ2
-LDM5OTEwNzY5Nl19
+eyJoaXN0b3J5IjpbLTE2NTkzOTAwNDQsMTIwMDI0MjcwMCwyOD
+g4MzMwNjIsOTE4Nzc1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1
+NzMsNDUyMTk2MTQ2LDM5OTEwNzY5Nl19
 -->

@@ -74,10 +74,10 @@ $$
 ![输入图片说明](/imgs/2024-03-26/ic7q0Crg84W8RlQB.png)
 - K取值的影响
 	- 一般取奇数
-	- k较小时较为复杂，对噪声明显
-	- k较大时容易guo'n
+	- k较小时较为复杂，对噪声明显，容易过拟合
+	- k较大时容易欠拟合
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDI4NTc5LDI4ODgzMzA2Miw5MTg3Nz
-U2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYs
-Mzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbMTIwMDI0MjcwMCwyODg4MzMwNjIsOTE4Nz
+c1NjQzLC00MTUyMTUwNDksLTEwMDYyMDE1NzMsNDUyMTk2MTQ2
+LDM5OTEwNzY5Nl19
 -->

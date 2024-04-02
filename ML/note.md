@@ -90,9 +90,11 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 ## SVM
 - 生成式模型：
 	- 估计先验概率，然后用贝叶斯定理求p(y=i|x)
-- pan'bie'shi'm
+- 判别式模型：
+	- 直接估计后验概率
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc5MjAxNTMsNDcxMzMzNjc1LDEyMD
-AyNDI3MDAsMjg4ODMzMDYyLDkxODc3NTY0MywtNDE1MjE1MDQ5
-LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMDc2OTZdfQ==
+eyJoaXN0b3J5IjpbNTUwODg2MDE1LDQ3MTMzMzY3NSwxMjAwMj
+QyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMsLTQxNTIxNTA0OSwt
+MTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MTA3Njk2XX0=
 -->

@@ -73,11 +73,11 @@ $$
 **缺失值处理**
 给每一个样本都分配一个权重$\omega$
 按照不缺失的样本集合计算信息增益
-$总信息增益=\rho * 不缺失的信息增益$
+$Gain(D,a)=\rho * Gain(\tilde D,a)$
 $$
 \rho = \frac{\sum_{1,x\in \tilde D}^{n}\omega_i}{\sum_{1,x\in D}^{n}\omega_i}
 $$
-缺失样本的$\ \omega=\frac{\vert D^i \vert}{\vert \tilde D\vert}$ 项
+缺失样本的$\ \omega=\frac{\vert D^i \vert}{\vert \tilde D\vert}$ 相当于同一个样本以不同的概率进入每一个划分集合中
 
 # K-NN
 **分类问题**
@@ -103,8 +103,8 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzYyODYzNiw1NTA4ODYwMTUsNDcxMz
-MzNjc1LDEyMDAyNDI3MDAsMjg4ODMzMDYyLDkxODc3NTY0Mywt
-NDE1MjE1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMD
-c2OTZdfQ==
+eyJoaXN0b3J5IjpbNTcyNzc0ODgxLDU1MDg4NjAxNSw0NzEzMz
+M2NzUsMTIwMDI0MjcwMCwyODg4MzMwNjIsOTE4Nzc1NjQzLC00
+MTUyMTUwNDksLTEwMDYyMDE1NzMsNDUyMTk2MTQ2LDM5OTEwNz
+Y5Nl19
 -->

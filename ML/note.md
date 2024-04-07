@@ -70,7 +70,10 @@ $$
 # 决策树
 单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
 
-**que'shi
+**缺失值处理**
+给每一个样本都分配一个权重$\omega$
+按照不缺失的样本集合计算信息增益
+总信息增益=
 
 # K-NN
 **分类问题**
@@ -96,8 +99,8 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ4MDY3MzMsNTUwODg2MDE1LDQ3MT
-MzMzY3NSwxMjAwMjQyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMs
-LTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MT
-A3Njk2XX0=
+eyJoaXN0b3J5IjpbLTc0MjM1NzkwMSw1NTA4ODYwMTUsNDcxMz
+MzNjc1LDEyMDAyNDI3MDAsMjg4ODMzMDYyLDkxODc3NTY0Mywt
+NDE1MjE1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMD
+c2OTZdfQ==
 -->

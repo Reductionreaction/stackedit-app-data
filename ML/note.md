@@ -75,8 +75,9 @@ $$
 按照不缺失的样本集合计算信息增益
 $总信息增益=\rho * 不缺失的信息增益$
 $$
-\rho = \frac{\sum_{1}^{n}\omega_i}{}
+\rho = \frac{\sum_{1,x\in \tilde D}^{n}\omega_i}{\sum_{1,x\in D}^{n}\omega_i}
 $$
+缺失
 
 # K-NN
 **分类问题**
@@ -102,8 +103,8 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzgzNTgyOCw1NTA4ODYwMTUsNDcxMz
-MzNjc1LDEyMDAyNDI3MDAsMjg4ODMzMDYyLDkxODc3NTY0Mywt
-NDE1MjE1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMD
-c2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDk2OTg5NTEsNTUwODg2MDE1LDQ3MT
+MzMzY3NSwxMjAwMjQyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMs
+LTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MT
+A3Njk2XX0=
 -->

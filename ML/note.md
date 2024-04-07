@@ -70,6 +70,8 @@ $$
 # 决策树
 单变量的决策树：会产生轴平行的分类面，学习任务较为复杂时需要很多段划分
 
+**que'shi
+
 # K-NN
 **分类问题**
 ![输入图片说明](/imgs/2024-03-26/ic7q0Crg84W8RlQB.png)
@@ -94,7 +96,8 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwODg2MDE1LDQ3MTMzMzY3NSwxMjAwMj
-QyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMsLTQxNTIxNTA0OSwt
-MTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbLTEwOTQ4MDY3MzMsNTUwODg2MDE1LDQ3MT
+MzMzY3NSwxMjAwMjQyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMs
+LTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MT
+A3Njk2XX0=
 -->

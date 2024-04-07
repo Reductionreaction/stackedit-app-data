@@ -77,7 +77,7 @@ $总信息增益=\rho * 不缺失的信息增益$
 $$
 \rho = \frac{\sum_{1,x\in \tilde D}^{n}\omega_i}{\sum_{1,x\in D}^{n}\omega_i}
 $$
-缺失样本的$\omega=\frac{\vert D^i \vert}{\vert \tidle D}$
+缺失样本的$\ \omega=\frac{\vert D^i \vert}{\vert \tilde D\vert}$ 项
 
 # K-NN
 **分类问题**
@@ -103,7 +103,7 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTg2OTYzNCw1NTA4ODYwMTUsNDcxMz
+eyJoaXN0b3J5IjpbMTk4NzYyODYzNiw1NTA4ODYwMTUsNDcxMz
 MzNjc1LDEyMDAyNDI3MDAsMjg4ODMzMDYyLDkxODc3NTY0Mywt
 NDE1MjE1MDQ5LC0xMDA2MjAxNTczLDQ1MjE5NjE0NiwzOTkxMD
 c2OTZdfQ==

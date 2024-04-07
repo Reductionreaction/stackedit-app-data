@@ -96,15 +96,15 @@ $$
 k-nn 是懒惰学习，即训练时间开销为0
 svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造一个通用的，与输入无关的目标函数
 
-## SVM
+# SVM
 - 生成式模型：
 	- 估计先验概率，然后用贝叶斯定理求p(y=i|x)
 - 判别式模型：
 	- 直接估计后验概率
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNTU0NTczLDU1MDg4NjAxNSw0NzEzMz
-M2NzUsMTIwMDI0MjcwMCwyODg4MzMwNjIsOTE4Nzc1NjQzLC00
-MTUyMTUwNDksLTEwMDYyMDE1NzMsNDUyMTk2MTQ2LDM5OTEwNz
-Y5Nl19
+eyJoaXN0b3J5IjpbLTE2NjAwNjg2MCwyMjA1NTQ1NzMsNTUwOD
+g2MDE1LDQ3MTMzMzY3NSwxMjAwMjQyNzAwLDI4ODgzMzA2Miw5
+MTg3NzU2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOT
+YxNDYsMzk5MTA3Njk2XX0=
 -->

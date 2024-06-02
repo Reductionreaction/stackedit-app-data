@@ -101,10 +101,10 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- 估计先验概率，然后用贝叶斯定理求p(y=i|x)
 - 判别式模型：
 	- 直接估计后验概率
-	- 
+	- ![输入图片说明](/imgs/2024-06-03/fYVotTAgKwLWBTFj.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAwNjg2MCwyMjA1NTQ1NzMsNTUwOD
-g2MDE1LDQ3MTMzMzY3NSwxMjAwMjQyNzAwLDI4ODgzMzA2Miw5
-MTg3NzU2NDMsLTQxNTIxNTA0OSwtMTAwNjIwMTU3Myw0NTIxOT
-YxNDYsMzk5MTA3Njk2XX0=
+eyJoaXN0b3J5IjpbMTQ4NDUwNzU2NSwtMTY2MDA2ODYwLDIyMD
+U1NDU3Myw1NTA4ODYwMTUsNDcxMzMzNjc1LDEyMDAyNDI3MDAs
+Mjg4ODMzMDYyLDkxODc3NTY0MywtNDE1MjE1MDQ5LC0xMDA2Mj
+AxNTczLDQ1MjE5NjE0NiwzOTkxMDc2OTZdfQ==
 -->

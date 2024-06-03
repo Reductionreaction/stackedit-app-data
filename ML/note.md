@@ -104,9 +104,9 @@ svm,cnn是急切学习，即在训练时就对样本进行处理，尝试构造�
 	- ![输入图片说明](/imgs/2024-06-03/fYVotTAgKwLWBTFj.png)
 	EM算法
 	E: 根据$\theta$计算隐变量(一般计算对数似然的期望)
-	M: 根据隐变量对$\theta$做极大似然估计
+	M: 根据隐变量对$\theta$做极大似然估计(找到似然期望最大的参数值)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4OTMxNTMzLDE0ODQ1MDc1NjUsLTE2Nj
+eyJoaXN0b3J5IjpbMTczMTI4Njc3LDE0ODQ1MDc1NjUsLTE2Nj
 AwNjg2MCwyMjA1NTQ1NzMsNTUwODg2MDE1LDQ3MTMzMzY3NSwx
 MjAwMjQyNzAwLDI4ODgzMzA2Miw5MTg3NzU2NDMsLTQxNTIxNT
 A0OSwtMTAwNjIwMTU3Myw0NTIxOTYxNDYsMzk5MTA3Njk2XX0=

@@ -12,9 +12,12 @@ Hard-Constraint: 总预算，住宿要求，饮食要求
 得出的结论是及时是GPT4也只有0.6%的通过率，单纯通过LLM和数据库进行Travel Plan是不可行的
 并没有在文章中看到有关训练的具体细节，没有搞懂是怎么进行训练的，这篇文章似乎是提出和尝试解决了一个问题
 
+[Large Language Models Can Plan Your Travels Rigorously with Formal
+Verification Tools](https://arxiv.org/abs/2404.11891)
+在上篇文章的基础上jin'x
 
 [SMT solver](https://www.youtube.com/watch?v=UmAZMVrJnHM&list=PLqinEaadXCHYW_1Z3W05rNx0skQIxrmQB)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU2NzU3NDQsLTMxNDUzNjc0MV19
+eyJoaXN0b3J5IjpbMTA1NTMwODkyMCwtMzE0NTM2NzQxXX0=
 -->

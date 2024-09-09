@@ -14,10 +14,10 @@ Hard-Constraint: 总预算，住宿要求，饮食要求
 
 [Large Language Models Can Plan Your Travels Rigorously with Formal
 Verification Tools](https://arxiv.org/abs/2404.11891)
-在上篇文章的基础上进行了改进，首先将用户的自然语言转为JSON，在将
+在上篇文章的基础上进行了改进，首先将用户的自然语言转为JSON，然后在LLM的帮助下一步步将JSON转化为SMT solver的代码判断数据库中的信息是否能够
 
 [SMT solver](https://www.youtube.com/watch?v=UmAZMVrJnHM&list=PLqinEaadXCHYW_1Z3W05rNx0skQIxrmQB)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNTM3NzE5LC0zMTQ1MzY3NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU4NTk1MDEsLTMxNDUzNjc0MV19
 -->

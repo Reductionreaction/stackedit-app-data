@@ -37,7 +37,7 @@
         <mxCell id="uf5Bh_zL8LO3mb7fT0gF-2" value="是否满意？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="368" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uf5Bh_zL8LO3mb7fT0gF-25" value="向量数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uf5Bh_zL8LO3mb7fT0gF-25" value="向量数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="174" width="60" height="73" as="geometry" />
         </mxCell>
         <mxCell id="uf5Bh_zL8LO3mb7fT0gF-32" value="检索" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -100,7 +100,7 @@
         <mxCell id="uf5Bh_zL8LO3mb7fT0gF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uf5Bh_zL8LO3mb7fT0gF-59" target="uf5Bh_zL8LO3mb7fT0gF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uf5Bh_zL8LO3mb7fT0gF-59" value="user" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uf5Bh_zL8LO3mb7fT0gF-59" value="user" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uf5Bh_zL8LO3mb7fT0gF-62" value="app" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
